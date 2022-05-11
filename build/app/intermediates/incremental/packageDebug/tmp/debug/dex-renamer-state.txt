@@ -1,0 +1,4 @@
+#Tue Dec 28 14:08:34 NPT 2021
+base.0=D\:\\theme_selection\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
